@@ -1,0 +1,26 @@
+{
+  "name": "Ziroom2RSS",
+  "version": "0.0.1",
+  "description": "使用RSS订阅自如房源",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIYgod/Ziroom2RSS.git"
+  },
+  "keywords": [
+    "Ziroom",
+    "RSS"
+  ],
+  "author": "DIYgod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DIYgod/Ziroom2RSS/issues"
+  },
+  "homepage": "https://github.com/DIYgod/Ziroom2RSS#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.16.2",
+    "log4js": "^2.3.5",
+    "request": "^2.83.0"
+  }
+}
