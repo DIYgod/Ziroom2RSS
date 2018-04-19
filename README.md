@@ -1,3 +1,5 @@
+# ⚠️ 此项目已被弃用并合入 [RSSHub](https://github.com/DIYgod/RSSHub)，请使用 [RSSHub](https://github.com/DIYgod/RSSHub)
+
 # Ziroom2RSS
 
 > 使用RSS订阅自如房源
